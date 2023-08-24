@@ -9,6 +9,8 @@ This is elmazzun, Linux enthusiast.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmazzun&layout=compact&theme=vision-friendly-dark)](https://github.com/elmazzun/github-readme-stats)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=elmazzun&column=7&row=1&margin-w=10&theme=darkhub&no-frame=true)
+
 ## I like to...
 
 - ...automate stuff with  
