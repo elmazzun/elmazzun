@@ -9,3 +9,16 @@ This is elmazzun, Linux enthusiast.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmazzun&layout=compact&theme=vision-friendly-dark)](https://github.com/elmazzun/github-readme-stats)
 
+## I like to...
+
+- ...automate stuff with  
+  <img src="https://skillicons.dev/icons?i=git,gitlab,ansible" />  
+  because I hate repetitive tasks
+
+- ...isolate my work with  
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift" />  
+  for a clean working environment
+
+- ...explore  
+  <img src="https://skillicons.dev/icons?i=linux" />  
+  because that's where the magic happens
