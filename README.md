@@ -1,16 +1,16 @@
-### Hi there 👋
+# elmazzun
 
-<!--
-**elmazzun/elmazzun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=elmazzun&style=flat-square&color=blue" alt=""/>
 
-Here are some ideas to get you started:
+Hi everybody this is elmazzun, Linux enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- currently working on OpenShift
+
+- based in Bologna, IT
+
+## Some stats about me
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elmazzun&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmazzun&layout=compact&theme=vision-friendly-dark)](https://github.com/elmazzun/github-readme-stats)
+
