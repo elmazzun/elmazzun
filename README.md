@@ -4,10 +4,6 @@
 
 Hi everybody this is elmazzun, Linux enthusiast.
 
-- currently working on OpenShift
-
-- based in Bologna, IT
-
 ## Some stats about me
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elmazzun&theme=dark&background=000000)](https://git.io/streak-stats)
