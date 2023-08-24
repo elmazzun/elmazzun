@@ -1,8 +1,7 @@
 # elmazzun
 
-<img src="https://komarev.com/ghpvc/?username=elmazzun&style=flat-square&color=blue" alt=""/>
-
-Hi everybody this is elmazzun, Linux enthusiast.
+Hi everybody!  
+This is elmazzun, Linux enthusiast.
 
 ## Some stats about me
 
