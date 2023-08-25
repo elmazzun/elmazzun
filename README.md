@@ -14,7 +14,7 @@ This is elmazzun, Linux enthusiast.
 ## I like to...
 
 - ...automate stuff with  
-  <img src="https://skillicons.dev/icons?i=git,gitlab,ansible" />  
+  <img src="https://skillicons.dev/icons?i=git,gitlab,ansible,bash" />  
   because I hate repetitive tasks
 
 - ...isolate my work with  
