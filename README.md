@@ -2,6 +2,7 @@
 
 Hi everybody!  
 This is elmazzun, Linux enthusiast.
+**For your own safety, do NOT clone any of my repositories as they are just a huge personal learning space where I study different topics.**
 
 ## Some stats about me
 
