@@ -3,30 +3,5 @@
 Hi everybody!  
 This is elmazzun, Linux enthusiast.
 
-:warning: :warning: :warning:
-
-**For your own safety, do NOT clone any of my repositories as they are just a huge personal learning space where I study different topics.**
-
-:warning: :warning: :warning:
-
-## Some stats about me
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elmazzun&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmazzun&layout=compact&theme=vision-friendly-dark)](https://github.com/elmazzun/github-readme-stats)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=elmazzun&column=7&row=1&margin-w=10&theme=darkhub&no-frame=true)
-
-## I like to...
-
-- ...automate stuff with  
-  <img src="https://skillicons.dev/icons?i=git,gitlab,ansible,bash" />  
-  because I hate repetitive tasks
-
-- ...isolate my work with  
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift" />  
-  for a clean working environment
-
-- ...explore  
-  <img src="https://skillicons.dev/icons?i=linux" />  
-  because that's where the magic happens
+I am going away from GitHub: since it has been bought from Microsoft and used my code to train AI, 
+GitHub has become a pile of shit.
